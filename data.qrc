@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/"/>
+    <qresource prefix="/datas">
+        <file>books.txt</file>
+    </qresource>
+</RCC>
